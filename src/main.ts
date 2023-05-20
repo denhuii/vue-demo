@@ -7,4 +7,3 @@ import App from "./App.vue";
 const app = createApp(App);
 app.use(router);
 app.mount("#app");
-console.log("🚀 ~ file: main.ts:7 ~ app:", app);
